@@ -67,9 +67,6 @@ The model includes:
 
 The CNN model was trained for **10 epochs** using the Adam optimizer and Sparse Categorical Crossentropy loss function.
 
-### Training Progress
-
-![Training Results](Images/training_results.png)
 
 ---
 
@@ -85,10 +82,6 @@ The trained model achieved excellent classification performance on the test data
 | Precision | **99%** |
 | Recall | **99%** |
 | F1-Score | **99%** |
-
-### Classification Results
-
-![Classification Report](Images/model_results.png)
 
 ---
 
